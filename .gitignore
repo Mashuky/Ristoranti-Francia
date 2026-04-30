@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# R session/workspace files
+.RData
+.Rdata
+.Rhistory
+.Rapp.history
+
+# RStudio project metadata
+.Rproj.user/
+*.Rproj.user
+
+# renv environment
+renv/
+
+# Heavy graphic outputs
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.svg
+*.pdf
